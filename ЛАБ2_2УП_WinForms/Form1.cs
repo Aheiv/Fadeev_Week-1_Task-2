@@ -31,6 +31,7 @@ namespace ЛАБ2_2УП_WinForms
             {
                 case true:
                     var oldDate = DateTime.Now.AddMonths(-NMonths);
+                    MessageBox.Show(oldDate.ToString());
                     dateTimePicker2.Value = oldDate;
                     dateTimePicker2.Visible = true;
                     break;

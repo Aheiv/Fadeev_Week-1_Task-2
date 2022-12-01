@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_1УП", "ЛАБ2_УП\ЛАБ2_1УП.csproj", "{23B4B980-A8D0-4677-8BAF-2E1EAA745982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_1УП", "ЛАБ2_УП\ЛАБ2_1УП.csproj", "{23B4B980-A8D0-4677-8BAF-2E1EAA745982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_1УП_WinForms", "ЛАБ2_1_WinForms\ЛАБ2_1УП_WinForms.csproj", "{63EFA654-4380-4DBC-BD21-77876402629E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_1УП_WinForms", "ЛАБ2_1_WinForms\ЛАБ2_1УП_WinForms.csproj", "{63EFA654-4380-4DBC-BD21-77876402629E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_2УП", "ЛАБ2_2УП\ЛАБ2_2УП.csproj", "{19EC11DE-16C4-4D19-B784-733FA130D311}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_2УП", "ЛАБ2_2УП\ЛАБ2_2УП.csproj", "{19EC11DE-16C4-4D19-B784-733FA130D311}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_2УП_WinForms", "ЛАБ2_2УП_WinForms\ЛАБ2_2УП_WinForms.csproj", "{5308C149-000D-4136-A86E-6DE73CE58BAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_2УП_WinForms", "ЛАБ2_2УП_WinForms\ЛАБ2_2УП_WinForms.csproj", "{5308C149-000D-4136-A86E-6DE73CE58BAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_3УП", "ЛАБ2_3УП\ЛАБ2_3УП.csproj", "{57BB5B71-E793-48A3-B467-DB2CD61F8D7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_3УП", "ЛАБ2_3УП\ЛАБ2_3УП.csproj", "{57BB5B71-E793-48A3-B467-DB2CD61F8D7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_3УП_WinForms", "ЛАБ2_3УП_WinForms\ЛАБ2_3УП_WinForms.csproj", "{B41E2A7A-A8BB-4621-A73C-8B6FAE0CC4FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_3УП_WinForms", "ЛАБ2_3УП_WinForms\ЛАБ2_3УП_WinForms.csproj", "{B41E2A7A-A8BB-4621-A73C-8B6FAE0CC4FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_4УП", "ЛАБ2_4УП\ЛАБ2_4УП.csproj", "{825DD54F-262C-40F0-B7A8-F77060E8BF89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_4УП", "ЛАБ2_4УП\ЛАБ2_4УП.csproj", "{825DD54F-262C-40F0-B7A8-F77060E8BF89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛАБ2_4УП_WinForms", "ЛАБ2_4УП_WinForms\ЛАБ2_4УП_WinForms.csproj", "{9159BD9F-5041-410F-90C9-2A5EF2AA54BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ЛАБ2_4УП_WinForms", "ЛАБ2_4УП_WinForms\ЛАБ2_4УП_WinForms.csproj", "{9159BD9F-5041-410F-90C9-2A5EF2AA54BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
